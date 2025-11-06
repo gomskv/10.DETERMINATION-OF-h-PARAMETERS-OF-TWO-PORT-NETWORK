@@ -35,4 +35,16 @@ b)	Short the output port and excite input port with a known voltage source Vs. S
 c)	Input port is open circuited and output port is excited with the same voltage source Vs.SothatV2=VSandI1=0,wedetermine I2andV1toobtainh12andh22.
 d)	Switch ‘off’ the supply after taking thereadings.
 
+**Circuit Diagram:**
 
+**Tabulation:**
+
+**Calculation:**
+
+**Marksplitup:**
+
+
+
+**RESULT:** 
+
+The h-parameters of the two port network has been calculated and verified by using Multisim Simulator.
